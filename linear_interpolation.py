@@ -7,7 +7,7 @@
 #               Oliver Brumley
 #               John Leach
 # Section:      559
-# Assignment:   Lab 2.1 (Team)
+# Assignment:   Lab 2.2 (Team)
 # Date:         09/03/2026
 #-----------------------------------------------------------#
 
