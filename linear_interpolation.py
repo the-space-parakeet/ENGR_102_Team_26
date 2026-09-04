@@ -45,7 +45,7 @@ distance_from_houston = (                                   # Estimated distance
 # Print output, giving position of the ISS relative to 
 # Houston at some time between 10 and 55 minutes.
 print(f"Part 1:")
-print(f"For t = {time_test} minutes, the position p = {distance_from_houston:.1f} kilometers")
+print(f"For t = {time_test:.0f} minutes, the position p = {distance_from_houston:.1f} kilometers")
 
 #-----------------------------------------------------------#
 # PART 2: Linear Extrapolation With Modulo
@@ -83,4 +83,4 @@ distance_from_houston = (                                   # Estimated distance
 # Print output, roughly estimating the position of the ISS 
 # relative to Houston at any time.
 print(f"Part 2:")
-print(f"For t = {time_test} minutes, the position p = {distance_from_houston} kilometers")
+print(f"For t = {time_test:.0f} minutes, the position p = {distance_from_houston} kilometers")
