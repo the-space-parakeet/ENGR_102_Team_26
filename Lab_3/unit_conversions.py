@@ -42,4 +42,4 @@ print(f"{quantity_asked:.2f} liters per second is equivalent to {gpm_final:.2f} 
 #conversion from degrees celcius to degrees farenheit
 c_to_f = 33.8
 fahrenheit_final = quantity_asked*c_to_f
-print(f"{quantity_asked:.2f} degrees Celcius is equivalent to {fahrenheit_final:.2f} degrees Fahrenheit")
+print(f"{quantity_asked:.2f} degrees Celsius is equivalent to {fahrenheit_final:.2f} degrees Fahrenheit")
